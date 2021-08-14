@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Wyatt 👋
 
 <!--
 **wy4tt/wy4tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I work as a frontend developer specializing in Vue3 but I love backend, embedded, and all other kinds of programming!
+
+My [portfolio](wy4tt.github.io) will be up and running soon, but you can check out the progress I've made so far!
