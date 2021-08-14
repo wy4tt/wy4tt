@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work as a frontend developer specializing in Vue3 but I love backend, embedded, and all other kinds of programming!
+I'm currently working as a frontend developer specializing in Vue3 but I love backend, embedded, and all other kinds of programming!
 
 My [portfolio](https://wy4tt.github.io) will be up and running soon, but you can check out the progress I've made so far!
