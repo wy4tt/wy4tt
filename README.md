@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 I love frontend, backend, embedded, and all other kinds of programming!
 
 My [portfolio](https://wy4tt.github.io) will be up and running soon, but you can check out the progress I've made so far!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy4tt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
