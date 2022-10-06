@@ -19,5 +19,4 @@ I love frontend, backend, embedded, and everything in between!
 
 My [portfolio](https://wy4tt.github.io) will be up and running soon. Click on the link to check out the progress I've made so far!
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wy4tt)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wy4tt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)         
+ 
