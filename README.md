@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love frontend, backend, embedded, and everything in between!
+I am passionate about full stack development and love JavaScript and C. I'm currently learning React, Vite, Dart and much more!
 
 My [portfolio](https://wy4tt.github.io) will be up and running soon. Click on the link to check out the progress I've made so far!
 
