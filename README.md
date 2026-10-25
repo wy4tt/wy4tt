@@ -5,8 +5,6 @@
 # Hi there 👋
 ### A few of my projects
 - [My portfolio (In Progress)](https://wy4tt.github.io)
-- [Happy Clouds Weather (In Progress)](https://happy-clouds-weather.netlify.app/)
-- Aptico CL (Coming Soon)
 
 ### Tools and Technologies
 <div style="display: inline_block">
